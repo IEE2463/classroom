@@ -4,7 +4,9 @@ En este repositorio encontrarás recursos importantes sobre Sistemas Electrónic
 
 El siguiente link, es una introducción al uso de GitHub y a la creación de los repositorios privados.
 
-[Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf) 
+[Introducción a GitHub](https://github.com/IEE2463/classroom/blob/master/Material%20de%20apoyo/GitHub/Introducción%20a%20GitHub.pdf)
+
+Además pueden revisar el repositorio que GitHub Classroom incorpora. https://github.com/IEE2463/github-starter-course
 
 
 ## Planificación Semanal
