@@ -9,11 +9,6 @@ El siguiente link, es una introducción al uso de GitHub y a la creación de los
 Además pueden revisar el repositorio que GitHub Classroom incorpora. https://github.com/IEE2463/github-starter-course
 
 
-## Planificación Semanal
-
-Aqui se irán informando las actividades semana a semana.
-
-
 ## Laboratorios
 
 Para crear los repositorios privados, deben acceder a los siguientes links. Mientras diga "En desarrollo" significa que no está disponible para la creación.
@@ -23,10 +18,10 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
 |      1      | [Haz Click!](https://classroom.github.com/a/trAeIRJk) | Introducción a C  	| 	1	| 12 - abril  |
 | 	   2 	  | [Haz Click!](https://classroom.github.com/a/O4rffqw0) | GPIOs |	2	| 28 - abril |
-| 	   3 	  | [Haz Click!](https://classroom.github.com/a/ONHdCpT_) | Timers e Interrupciones       |	2	| 26 - mayo |
-| 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| Por definir  |
-| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C - UART	|	3	| Por definir  |
-| 	   6 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | SPI			|	4	| Por definir  |
+| 	   3 	  | [Haz Click!](https://classroom.github.com/a/ONHdCpT_) | Timers e Interrupciones       |	2	| 27 - mayo |
+| 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| 7 de junio  |
+| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C - UART	- IoT|	3	| 23 de junio  |
+| 	   6 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | SPI - IoT		|	4	| 5 de julio  |
 |  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| 14 - julio  |
 
 
