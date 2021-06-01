@@ -19,7 +19,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 |      1      | [Haz Click!](https://classroom.github.com/a/trAeIRJk) | Introducción a C  	| 	1	| 12 - abril  |
 | 	   2 	  | [Haz Click!](https://classroom.github.com/a/O4rffqw0) | GPIOs |	2	| 28 - abril |
 | 	   3 	  | [Haz Click!](https://classroom.github.com/a/ONHdCpT_) | Timers e Interrupciones       |	2	| 27 - mayo |
-| 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| 10 de junio  |
+| 	   4 	  | [Haz Click!](https://classroom.github.com/a/bZrZ1AUR) | ADC - UART		|	3	| 10 de junio  |
 | 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | I2C - UART	- IoT|	3	| 23 de junio  |
 | 	   6 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | SPI - IoT		|	4	| 5 de julio  |
 |  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| 14 - julio  |
