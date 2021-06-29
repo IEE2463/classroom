@@ -21,8 +21,8 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | 	   3 	  | [Haz Click!](https://classroom.github.com/a/ONHdCpT_) | Timers e Interrupciones       |	2	| 27 - mayo |
 | 	   4 	  | [Haz Click!](https://classroom.github.com/a/bZrZ1AUR) | ADC - UART		|	3	| 10 de junio  |
 | 	   5 	  | [Haz Click!](https://classroom.github.com/g/WtVwl49w) | Protocolos de comunicacion|	3	| 23 de junio  |
-| 	   6 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | IoT		|	4	| 5 de julio  |
-|  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| 14 - julio  |
+| 	   Bonus	  | [Haz Click!](https://classroom.github.com/a/W4KifvXO) | IoT		|	4	| 5 de julio  |
+|  Proyecto	  | [Haz Click!](https://classroom.github.com/g/N_82RD78)|  Proyecto		|	-	| 15 - julio  |
 
 
 ## Equipo
