@@ -59,12 +59,12 @@ Las experiencias estarán divididas en niveles, acorde a la dificultad de las ta
 Total de 6 laboratorios.
 
 + La nota de cada laboratorio está en escala de 1.00 a 7.00
-...20 % será un control de salida de laboratorio. 
-...80 % será entrega de laboratorio funcional.
++ 20 % será un control de salida de laboratorio. 
++ 80 % será entrega de laboratorio funcional.
 
 
 + Nota en base a una rúbrica.
-..No obstante lo anterior, la nota final de cada laboratorio estará condicionada a la nota obtenida en preguntas:
++ No obstante lo anterior, la nota final de cada laboratorio estará condicionada a la nota obtenida en preguntas:
 
 
 ### Criterio de aprobación laboratorios
