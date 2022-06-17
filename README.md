@@ -21,8 +21,8 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | 	   3 	  | [Haz Click!](https://classroom.github.com/a/R66TOFWi) | Timers e Interrupciones       |	2	| 9 y 11 mayo |
 | 	   4 	  | [Haz Click!](https://classroom.github.com/a/toj0s6gE) | ADC - UART		|	3	| 30 may / 1 jun |
 | 	   5 	  | [Haz Click!](https://classroom.github.com/a/o73yRt-j) | Protocolos de comunicacion|	4	|13 y 15 jun  |
-| 	   Bonus	  | [En preparación](https://github.com/IEE2463/classroom) | IoT		|	-	|   |
-|  Proyecto	  | [Haz Click!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| -  |
+| 	   Bonus	  | [Haz Click!](https://classroom.github.com/a/kLHJW9WT) | IoT		|	-	| 24 Jun  |
+|  Proyecto	  | [Haz Click!](https://classroom.github.com/a/ry5uKnNE)|  Proyecto		|	-	| 1 Jul  |
 
 
 ## Equipo
@@ -31,13 +31,6 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
 | Felipe Sanchez | fssanchez@uc.cl | [@felipesanchezvaras](https://github.com/felipesanchezvaras) |
-
-### Ayudantes Laboratorio
-
-| Nombre |	Correo 	| Usuario |
-|:------:|:--------:|:-------:|
-
-
 
 ## Foro
 
